@@ -12,7 +12,6 @@ Currently building AI-powered backend systems using Python, FastAPI, LLM APIs, a
 - 🤖 Learning AI Engineering and LLM-based application development
 - ⚡ Building real-world AI projects using FastAPI and Gemini APIs
 - 📚 Currently learning RAG systems, embeddings, and vector databases
-- 🎯 Preparing for AI/ML internship opportunities
 - 🔥 Interested in AI infrastructure, backend systems, and scalable applications
 
 ---
