@@ -99,14 +99,14 @@ Authentication system with admin dashboard and OTP verification.
 
 Currently Learning
 
-• FastAPI
-• Retrieval-Augmented Generation (RAG)
-• Vector Databases (ChromaDB)
-• Embeddings & Semantic Search
-• LLM Application Development
-• Gemini API
-• AI Agents
-• Python Backend Development
+- FastAPI
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (ChromaDB)
+- Embeddings & Semantic Search
+- LLM Application Development
+- Gemini API
+- AI Agents
+- Python Backend Development
 ---
 
 # 🎯 Goals
