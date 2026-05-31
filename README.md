@@ -123,5 +123,6 @@ My goal is to become an AI/ML Engineer focused on:
 # 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/indranil-majumder-0086243a1
+- Email: indranil112m@gmail.com
 
 ---
