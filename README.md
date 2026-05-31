@@ -97,13 +97,16 @@ Authentication system with admin dashboard and OTP verification.
 
 # 📖 Currently Learning
 
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Embeddings
-- Semantic Search
-- AI Backend Architecture
-- PyTorch Fundamentals
+Currently Learning
 
+• FastAPI
+• Retrieval-Augmented Generation (RAG)
+• Vector Databases (ChromaDB)
+• Embeddings & Semantic Search
+• LLM Application Development
+• Gemini API
+• AI Agents
+• Python Backend Development
 ---
 
 # 🎯 Goals
